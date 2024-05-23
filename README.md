@@ -1,2 +1,2 @@
-# A tiny project to get familiar with using tailwind with React
+# A tiny project to get familiar with using Tailwind with React
 
